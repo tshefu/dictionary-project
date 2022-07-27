@@ -18,6 +18,7 @@ function App() {
           <a
             href="https://github.com/tshefu/dictionary-project"
             target="_blank"
+            rel="noreferrer"
           >
             Github
           </a>
