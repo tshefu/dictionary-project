@@ -12,7 +12,16 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center">Coded by Viktoria Schneider</footer>
+        <footer className="text-center">
+          This project was coded by Viktoria Schneider and is open-sourced on{" "}
+          {""}
+          <a
+            href="https://github.com/tshefu/dictionary-project"
+            target="_blank"
+          >
+            Github
+          </a>
+        </footer>
       </div>
     </div>
   );
