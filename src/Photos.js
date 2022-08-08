@@ -7,7 +7,7 @@ export default function Photos(props) {
     return (
       <section className="Photos">
         <div className="container">
-          <div classname="row">
+          <div className="row">
             {props.photos.map(function (photo, index) {
               return (
                 <div className="col-4" key={index}>
